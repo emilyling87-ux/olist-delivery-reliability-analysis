@@ -8,7 +8,18 @@
 
 
 ---
+## Executive KPI Snapshot (BI View)
 
+- Total Delivered Orders: 96,476
+- SLA Compliance Rate: 92.43%
+- True On-Time Rate (−2 to 0 days): 4.72%
+- Early Delivery Rate: 87.70%
+- Late Delivery Rate: 7.57%
+
+**At-a-glance takeaway:**  
+Delivery SLA appears strong, but true punctuality is extremely low due to systematic early deliveries.
+
+---
 ## Business Problem
 
 Many Olist dashboards focus on **sales performance and top-selling products**.  
